@@ -1,0 +1,5 @@
+ini sebagai pengantar chat ke dalam aplikasi, klik tombol 
+ikut petunjuk :
+  1. buka aplikasi 
+  2. masukan username
+  3. ketik atau tulis pesan
