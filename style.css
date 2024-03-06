@@ -28,6 +28,15 @@ body{
     box-shadow: 0 0 128px 0 rgba(192, 192, 192, 0.1), 0 32px 64px -48px rgba(192, 192, 192, 0.1);
 
 }
+.form form{
+    margin: 5px;
+    background:#FFE5CC;
+    padding: 25px 30px;
+    border:#9a9595;
+    border-radius: 2px;
+    box-shadow: 0 0 128px 0 rgba(192, 192, 192, 0.1), 0 32px 64px -48px rgba(192, 192, 192, 0.1);
+
+}
 .form header{
     font-size: 25px;
     font-weight: 600;

@@ -3,3 +3,5 @@ ikut petunjuk :
   1. buka aplikasi 
   2. masukan username
   3. ketik atau tulis pesan
+  4. pilih tanda kirim pojok bagian bawah
+  5. ----LALU TUNGGU HINGGA PROSES SELESAI----
