@@ -8,15 +8,6 @@ form.onsubmit = (e) => {
 continueBtn.onclick = () => {
 	console.log("Hello");
 }
-toggleBtn.onclick = () => {
-    if(pswrdField.type == "password"){
-        pswrdField.type = "text";
-        toggleBtn.classList.add("active");
-    }else{
-        pswrdField.type = "password";
-        toggleBtn.classList.remove("active");
-    }
-
 continueBtn.onclick = () => {
 	let xhr = new XMLHttpRequest();
 	xhr.open("POST", "signup.php", true);
